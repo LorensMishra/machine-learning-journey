@@ -204,8 +204,10 @@ Create file:
 ```
 machine-learning-journey/
 ├── linear-regression-notes.md
-└── linear_regression.ipynb
+└── linear_regression.py
 ```
 
-Your `notes.md` can contain the theory I gave above.
-Your `.py` file can contain the code.
+> `linear-regression-notes.md` can contain the theory.
+
+
+> Your `.py` file contain the code.
