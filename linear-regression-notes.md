@@ -197,7 +197,7 @@ This sounds **honest, practical, and strong for fresher level**.
 
 ---
 
-# 📂 Perfect file for your GitHub repo
+# 📂File-Structure GitHub repo
 
 Create file:
 
